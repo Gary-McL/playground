@@ -1,4 +1,2 @@
 # playground
-Playground repository
-
-GaryMcL
+Playground repository to mess around with.
